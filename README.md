@@ -16,8 +16,11 @@ Then run `npm start` to locally run lite-server and html will open
 ---
 
 Keeping links here for reference:
+
 [Angular 2][1]
+
 [Git Guide][2]
+
 [Markdown Syntax][3]
 
 [1]: https://angular.io/docs/ts/latest/
